@@ -63,8 +63,8 @@ These outcomes can be valuable for both buyers and sellers in the metropolitan r
 
 To use or build upon this project:
 
-1. Clone this repository: `git clone https://github.com/yachi2605/Metropolitan-Property-Value-Prognostication.git`
-2. Navigate to the project directory: `cd Metropolitan-Property-Value-Prognostication`
+1. Clone this repository: `https://github.com/AryaPatel2110/Metropolitan_Property_Value_Prognostication.git`
+2. Navigate to the project directory: `cd Metropolitan_Property_Value_Prognostication`
 
 Detailed instructions on using and customizing the project can be found within the project files.
 
